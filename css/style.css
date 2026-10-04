@@ -67,10 +67,12 @@ header {
     color: #242020;
     font-size: 14px;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .navbar a:hover {
     color: #cf8799;
+    text-decoration: none;
 }
 
 
